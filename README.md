@@ -1,5 +1,7 @@
 # Big-Integer-cpp
-Big Integer Library for c++ implemented using std::string.
+Big Integer Library for c++
+<br>
+implemented using std::string.
 <br>
 Functionality available:
 
