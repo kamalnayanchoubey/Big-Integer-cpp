@@ -1,2 +1,32 @@
 # Big-Integer-cpp
-Big Integer Library for c++ implemented using std::string. Functionality available: (1) Compare (2) Subtract (3) Add (4) absolute (5) multiply (6) divide (7) Value input (8) Fibonacci number (9) Factorial 
+Big Integer Library for c++ implemented using std::string.
+<br>
+Functionality available:
+
+<br>
+
+(1) Compare 
+<br>
+
+(2) Subtract 
+<br>
+
+(3) Add
+<br>
+
+(4) absolute 
+<br>
+
+(5) multiply
+<br>
+
+(6) divide
+<br>
+
+(7) Value input
+<br>
+
+(8) Fibonacci number 
+<br>
+
+(9) Factorial 
